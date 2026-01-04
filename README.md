@@ -67,13 +67,6 @@ A full-stack platform that analyzes Java source files using AST parsing and gene
 
 ---
 
-📫 **Let’s Connect**
-- 💼 LinkedIn: *(add your LinkedIn URL)*
-- 🌐 Portfolio: *(optional)*
-
-> *“Good systems are built, not rushed.”*
-
-
 📫 **Reach Me At**
 - 💼 [LinkedIn](https://www.linkedin.com/in/sri-harsha09/)  
 - 🌐 [Portfolio](https://chiken-little.github.io/HarshaPortfolio/)  
