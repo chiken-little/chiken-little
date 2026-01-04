@@ -1,47 +1,62 @@
-# 👋 Hi, I'm Harsha Mahanti  
+👋 Hi, I’m Harsha Mahanti
+Senior Software Engineer with 5+ years of experience building Java-based, cloud-native applications and scalable backend systems, with solid full-stack exposure.
 
-🚀 **Software Engineer | Java + Spring Boot | Cloud | Full Stack**
+I specialize in Java, Spring Boot, and microservices, designing systems that are reliable, performant, and production-ready. Over the years, I’ve moved beyond simply “making things work” to designing architectures that scale, deploy cleanly, and are easy to maintain.
 
-I'm a passionate engineer with 5+ years of experience designing and building **scalable, cloud-native systems** across domains — from IoT and QA automation to digital assets and data-driven applications. I love solving complex problems, mentoring teams, and building solutions that actually *make an impact*.
+💼 What I Do
 
----
+Design and build enterprise-grade backend systems using Java & Spring Boot
 
-### 💡 About Me
-- 🎓 **M.S. in Information Technology & Management**, *University of Texas at Dallas (May 2024)*  
-- 🎓 **B.E. (Hons.) in Computer Science**, *BITS Pilani, Goa (Aug 2020)*  
-- ☁️ **AWS Certified** | Hands-on with **GCP, Kubernetes, and CI/CD pipelines**  
-- 💼 Experience at **Copart**, **UTD**, **Intex**, and **UST Global**  
-- 🔧 Skilled in **Java, Spring Boot, React, REST APIs, Microservices, Selenium, and Cloud Infrastructure**
+Develop RESTful microservices with clean API contracts and strong test coverage
 
----
+Build full-stack workflows using React + Java backend services
 
-### 🧩 What I’m Currently Building
-- ⚙️ A full-stack **Crypto Portfolio Tracker** (React + Spring Boot + CoinGecko API)  
-- 💰 Wallet system with **Stripe + Razorpay** integrations  
-- 🔄 Real-time caching, rate-limit handling, and market insights  
+Deploy and operate applications on AWS using CI/CD, containers, and cloud best practices
 
----
+Collaborate closely with DevOps, QA, and product teams in Agile environments
 
-### 🎯 Interests & Goals
-- Exploring **data engineering** with **GCP BigQuery**, **Dataflow**, and **Kafka**  
-- Designing **scalable distributed systems** and **real-time backend pipelines**  
-- Contributing to **open-source**, especially in automation, data, and cloud tech  
+☁️ Cloud & Architecture Focus
 
----
+AWS-native development (EC2, RDS, S3, IAM, CI/CD pipelines)
 
-### 🛠️ Tech Stack
-**Languages:** Java, Python, JavaScript, SQL  
-**Frameworks:** Spring Boot, React, Express  
-**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Jenkins, Terraform  
-**Tools:** Git, Maven, Selenium, JUnit, Postman  
+Dockerized services and Kubernetes-based deployments
 
----
+Performance optimization, caching strategies, and rate-limit handling
 
-### 🌱 Outside Work
-I enjoy tech writing, tinkering with side projects, and mentoring aspiring developers.  
-If not coding, you’ll probably find me exploring new ideas over a cup of chai ☕.
+Secure, scalable system design aligned with cloud best practices
 
----
+🧠 What I’m Currently Building
+
+AI-powered Java Code Review & Auto-Documentation Platform
+
+AST-based Java parsing (JavaParser)
+
+LLM-driven structured code reviews
+
+Automated Javadoc insertion using syntax-aware transformations
+
+Full-stack crypto & wallet platforms
+
+Spring Boot + React
+
+External API integrations, payments, and real-time data handling
+
+🛠️ Tech Stack
+
+Languages: Java, Python, JavaScript, SQL
+Backend: Spring Boot, REST APIs, Microservices, Hibernate/JPA
+Frontend: React
+Cloud & DevOps: AWS (Certified), GCP, Docker, Kubernetes, CI/CD
+Testing & Tools: JUnit, Selenium, Git, Maven, Postman
+
+🎓 Background
+
+M.S. in Information Technology & Management — University of Texas at Dallas (2024)
+
+B.E. (Hons.) in Computer Science — BITS Pilani, Goa (2020)
+
+AWS Certified Solutions Architect
+
 
 📫 **Reach Me At**
 - 💼 [LinkedIn](https://www.linkedin.com/in/sri-harsha09/)  
