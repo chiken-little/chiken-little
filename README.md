@@ -1,61 +1,77 @@
-👋 Hi, I’m Harsha Mahanti
-Senior Software Engineer with 5+ years of experience building Java-based, cloud-native applications and scalable backend systems, with solid full-stack exposure.
+# 👋 Hi, I'm Harsha Mahanti
 
-I specialize in Java, Spring Boot, and microservices, designing systems that are reliable, performant, and production-ready. Over the years, I’ve moved beyond simply “making things work” to designing architectures that scale, deploy cleanly, and are easy to maintain.
+🚀 **Software Engineer | Java • Spring Boot • Cloud • Full Stack**
 
-💼 What I Do
+I’m a backend-focused full stack engineer with **5+ years of experience** building scalable, cloud-native systems using Java and modern web technologies. I enjoy solving complex problems, designing clean architectures, and building systems that are reliable, testable, and production-ready.
 
-Design and build enterprise-grade backend systems using Java & Spring Boot
+---
 
-Develop RESTful microservices with clean API contracts and strong test coverage
+## 🧠 What I Do Best
+- Design and build **Java + Spring Boot microservices**
+- Develop **cloud-native applications** on AWS
+- Build **full-stack solutions** with React + REST APIs
+- Automate testing, CI/CD pipelines, and deployments
+- Write clean, maintainable, well-documented code
 
-Build full-stack workflows using React + Java backend services
+---
 
-Deploy and operate applications on AWS using CI/CD, containers, and cloud best practices
+## 🛠️ Tech Stack
 
-Collaborate closely with DevOps, QA, and product teams in Agile environments
+**Backend**
+- Java 17, Spring Boot, Spring Security, Hibernate/JPA
+- REST APIs, Microservices Architecture
 
-☁️ Cloud & Architecture Focus
+**Frontend**
+- React, Vite, JavaScript
 
-AWS-native development (EC2, RDS, S3, IAM, CI/CD pipelines)
+**Cloud & DevOps**
+- AWS (EC2, S3, RDS, IAM, Lambda)
+- Docker, Kubernetes
+- CI/CD (GitHub Actions, Jenkins)
 
-Dockerized services and Kubernetes-based deployments
+**Testing & Quality**
+- JUnit, Selenium, Test Automation
+- API testing & validation
 
-Performance optimization, caching strategies, and rate-limit handling
+---
 
-Secure, scalable system design aligned with cloud best practices
+## 🚀 Featured Project
 
-🧠 What I’m Currently Building
+### 🔹 AI Java Code Review & Auto-Documentation Platform
+A full-stack platform that analyzes Java source files using AST parsing and generates **method-level code reviews and Javadocs using LLMs**.
 
-AI-powered Java Code Review & Auto-Documentation Platform
+**Highlights**
+- AST-based Java analysis using JavaParser (no regex/string hacks)
+- Strict JSON-based LLM contracts for safe backend parsing
+- Automated Javadoc insertion via AST rewriting
+- Downloadable, fully documented Java source
+- Robust error handling for malformed Java files
 
-AST-based Java parsing (JavaParser)
+🔗 **Repo:** https://github.com/chiken-little/ai-java-code-review
 
-LLM-driven structured code reviews
+---
 
-Automated Javadoc insertion using syntax-aware transformations
+## 🎯 Currently Exploring
+- Cloud-native system design
+- GenAI + developer productivity tools
+- Scalable backend architectures
+- Data & event-driven systems
 
-Full-stack crypto & wallet platforms
+---
 
-Spring Boot + React
+## 🌱 A Bit More About Me
+- 🎓 M.S. in Information Technology & Management — **UT Dallas**
+- 🎓 B.E. (Hons.) Computer Science — **BITS Pilani, Goa**
+- ☁️ AWS Certified
+- 🤝 Enjoy mentoring and collaborating with engineers
 
-External API integrations, payments, and real-time data handling
+---
 
-🛠️ Tech Stack
+📫 **Let’s Connect**
+- 💼 LinkedIn: *(add your LinkedIn URL)*
+- 🌐 Portfolio: *(optional)*
 
-Languages: Java, Python, JavaScript, SQL
-Backend: Spring Boot, REST APIs, Microservices, Hibernate/JPA
-Frontend: React
-Cloud & DevOps: AWS (Certified), GCP, Docker, Kubernetes, CI/CD
-Testing & Tools: JUnit, Selenium, Git, Maven, Postman
-
-🎓 Background
-
-M.S. in Information Technology & Management — University of Texas at Dallas (2024)
-
-B.E. (Hons.) in Computer Science — BITS Pilani, Goa (2020)
-
-AWS Certified Solutions Architect
+> *“Good systems are built, not rushed.”*
 
 
 📫 **Reach Me At**
